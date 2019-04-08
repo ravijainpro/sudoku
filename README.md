@@ -1,0 +1,2 @@
+# sudoku
+Sudoku Generator generates a set a random pattern of the nine Number i.e., 1 to 9, then using random function at every step the solved version of sudoku is implement using that randomly generated pattern set. Then numbers are removed one by one from each of the 9 major blocks consisting of 9 cells, at each removal sudoku solver checks whether the sudoku is solvable and finally after few seconds a random solvable sudoku is generated.
